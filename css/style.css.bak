@@ -30,7 +30,7 @@ img{max-width:100%; display:block;}
 /*end reset*/
 body{
 	background:#e2e1dd;
-	font-family: 'Microsoft YaHei', sans-serif;	
+	font-family: 'weiruanyahei', sans-serif;	
 }
 body a{
 	transition: 0.5s all;
